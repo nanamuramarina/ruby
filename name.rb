@@ -1,1 +1,1 @@
-puts "I" + "am" + "Sa"
+puts "I" + "am" + "Sam"
